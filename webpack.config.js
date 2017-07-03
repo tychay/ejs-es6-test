@@ -24,7 +24,7 @@ module.exports = {
       {
         loader: 'babel-loader',
         exclude: /node_modules/,
-        test: /\.js$/,
+        test: /\.e?js$/,
         options: {
           presets: [
             ['env', {modules: false}]
