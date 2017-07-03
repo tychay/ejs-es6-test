@@ -1,0 +1,12 @@
+{
+  "name": "ejs-es6-test",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "babel-core": "^6.25.0",
+    "babel-loader": "^7.1.1",
+    "babel-preset-env": "^1.5.2",
+    "ejs-loader": "^0.3.0",
+    "webpack": "^3.0.0"
+  }
+}
